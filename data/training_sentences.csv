@@ -1,0 +1,106 @@
+sentence,category
+take my medicine at 8 pm,Medicine
+remind me to take my vitamins after breakfast,Medicine
+grandpa needs his blood pressure tablet every morning,Medicine
+take two pills after dinner,Medicine
+use my inhaler before football,Medicine
+give grandma her eye drops at night,Medicine
+refill my prescription at the pharmacy,Medicine
+take the cough syrup before bed,Medicine
+remind dad to take his sugar medicine,Medicine
+apply the cream on my arm twice a day,Medicine
+take antibiotics every 8 hours,Medicine
+drink my medicine with warm water,Medicine
+take the allergy tablet in the morning,Medicine
+mom has to take her calcium tablet,Medicine
+put drops in my ear before sleeping,Medicine
+finish my math homework,Study
+study for the science test on friday,Study
+submit my english essay tomorrow,Study
+revise chapter 5 of history,Study
+practice spelling words for the quiz,Study
+read 20 pages of my book,Study
+complete the python assignment,Study
+prepare my presentation for class,Study
+learn the multiplication tables,Study
+do the hindi worksheet,Study
+project work on the solar system model,Study
+review my notes before the exam,Study
+write the lab report for chemistry,Study
+coding class homework due on monday,Study
+memorize the poem for recitation,Study
+dentist appointment at 10 am,Appointment
+doctor visit next tuesday,Appointment
+parent teacher meeting on thursday,Appointment
+haircut appointment on saturday,Appointment
+eye checkup at the clinic,Appointment
+meeting with my coach at 5,Appointment
+vaccination appointment for my sister,Appointment
+online class with my tutor at 6 pm,Appointment
+interview for the school club,Appointment
+grandma's hospital checkup on monday,Appointment
+zoom call with the science team,Appointment
+pick up my passport from the office,Appointment
+bank appointment with dad,Appointment
+counselor meeting after lunch,Appointment
+car service appointment at the garage,Appointment
+mom's birthday on december 12,Birthday
+wish rahul happy birthday,Birthday
+buy a gift for aisha's birthday,Birthday
+grandpa turns 70 next week,Birthday
+my parents anniversary is on sunday,Birthday
+call my cousin on her birthday,Birthday
+order a birthday cake for dad,Birthday
+plan a surprise party for my best friend,Birthday
+send a birthday card to my aunt,Birthday
+my sister's birthday party on saturday,Birthday
+uncle's wedding anniversary dinner,Birthday
+make a birthday video for my teacher,Birthday
+wish my friend happy birthday at midnight,Birthday
+grandma's 80th birthday celebration,Birthday
+write a birthday message for my brother,Birthday
+take out the trash,Chores
+water the plants,Chores
+clean my room before dinner,Chores
+feed the dog at 7,Chores
+wash the dishes after lunch,Chores
+fold the laundry,Chores
+make my bed in the morning,Chores
+walk the dog in the evening,Chores
+vacuum the living room,Chores
+clean the fish tank on sunday,Chores
+put the clothes in the washing machine,Chores
+empty the dishwasher,Chores
+change the bedsheets,Chores
+charge my tablet tonight,Chores
+lock the front door before bed,Chores
+buy milk and bread,Shopping
+get eggs from the store,Shopping
+order new school shoes online,Shopping
+buy a notebook and pencils,Shopping
+pick up vegetables from the market,Shopping
+buy batteries for the remote,Shopping
+get fruits on the way home,Shopping
+buy a new water bottle,Shopping
+order printer ink,Shopping
+grocery shopping on saturday,Shopping
+buy chart paper for my project,Shopping
+get toothpaste and soap,Shopping
+buy dog food,Shopping
+pick up the cake from the bakery,Shopping
+buy a phone charger,Shopping
+football practice at 4 pm,Activity
+piano lesson on thursday,Activity
+swimming class every saturday,Activity
+cricket match in the evening,Activity
+go for a run at 6 am,Activity
+basketball training after school,Activity
+dance class on wednesday,Activity
+chess club meeting at lunch,Activity
+yoga in the morning,Activity
+guitar practice for 30 minutes,Activity
+karate class at 5,Activity
+cycle to the park with friends,Activity
+art class on sunday,Activity
+badminton with dad tonight,Activity
+skating lesson next weekend,Activity
